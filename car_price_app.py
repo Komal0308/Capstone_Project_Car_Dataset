@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 #from sklearn import *
-import sklearn
+#import sklearn
 import pickle
 
 # Load the saved model
