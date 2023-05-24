@@ -1,4 +1,5 @@
 import streamlit as st
+!pip3 install scikit-learn
 import pandas as pd
 from sklearn import *
 import pickle
